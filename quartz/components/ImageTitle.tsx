@@ -16,7 +16,7 @@ function ImageTitle({ displayClass }: QuartzComponentProps) {
 
 ImageTitle.css = `
 .img-title {
- margin: -0.6rem 0rem 0 0; /*shifts image vertically to align with the headline*/
+ margin: -0.65rem 0rem 0 0; /*shifts image vertically to align with the headline*/
 }
 `
 
