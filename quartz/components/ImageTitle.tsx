@@ -5,10 +5,7 @@ function ImageTitle({ displayClass }: QuartzComponentProps) {
   return (
     <div class={classNames(displayClass, "img-title")}>
       <a href={"/"}>
-        <img
-          alt="Dr. Daniel Bender"
-          src="http://ressourcen.drdanielbender.de/logo-drdanielbender-rect3.png"
-        />
+        <img alt="Dr. Daniel Bender" src="static/logo.png" />
       </a>
     </div>
   )
