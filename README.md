@@ -1,18 +1,22 @@
-# Quartz v4
+# 📌 KI-Wissen – Kuratierte Informationen zu generativer KI
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Willkommen bei **KI-Wissen**, meiner persönlichen und regelmäßig aktualisierten Wissensdatenbank über **generative Künstliche Intelligenz**.
+Hier findest du eine **kuratierte Sammlung verlässlicher Informationen**, die ich persönlich prüfe und stets auf dem neuesten Stand halte – anders als KI-gestützte Systeme, die ungefilterte Inhalte generieren.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Schwerpunkte
+- **Fokus:** Generative KI (LLMs, Prompt Engineering, Anwendungen)
+- **Aktualität:** Laufend überprüft und erweitert
+- **Zielgruppe:** KI-Interessierte, Entwickler, Unternehmen, Berater
+- **Sprache:** Deutsch 🇩🇪
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+👉 **Live-Version der Wissenssammlung:** [drdanielbender.com](https://drdanielbender.com/wissensdatenbank)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+📖 Erfahre mehr über meine Arbeit im Bereich **Wissen & Beratung zu generativer KI**: [Über mich](https://drdanielbender.com)
 
-## Sponsors
+---
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+🔍 **Fragen, Feedback oder Ergänzungen?**
+Erstelle gerne ein **[Issue](https://github.com/aidfulai/ki-wissen/issues)** oder kontaktiere mich auf **[LinkedIn](https://www.linkedin.com/in/bender-daniel)**.
+
+---
+Die Live-Version der Wissensammlung wird mit [Quartz](https://github.com/jackyzha0/quartz) aus Markdown Dateien erstellt.
