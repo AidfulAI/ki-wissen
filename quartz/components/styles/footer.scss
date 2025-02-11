@@ -1,15 +1,67 @@
-footer {
-  text-align: left;
-  margin-bottom: 4rem;
-  opacity: 0.7;
+/* Footer-Container */
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px; /* Gleichmäßiger Abstand zwischen Kategorien */
+  padding: 0px 0; /* Vertikaler Abstand innerhalb des Footers */
+  background-color: var(--light); /* Quartz Variablen */
+  color: var(--dark); /* Quartz Variablen */
+}
 
-  & ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-    margin-top: -1rem;
+.footer-section {
+  margin: 0; /* Entfernt unnötige Außenabstände */
+  text-align: left;
+}
+
+.footer-section h4 {
+  margin-bottom: 5px; /* Abstand zwischen Überschrift und Inhalt */
+  font-size: 16px; /* Einheitliche Überschriftengröße */
+}
+
+.footer-section p,
+.footer-section ul {
+  margin: 0; /* Entfernt zusätzliche Abstände */
+  padding: 0; /* Entfernt Innenabstände */
+  line-height: 1.5; /* Lesbarkeit */
+}
+
+.footer-section ul li {
+  list-style: none; /* Entfernt Bulletpoints */
+  margin-bottom: 5px; /* Einheitlicher Abstand zwischen Links */
+}
+
+/* Links */
+.footer-section a {
+  text-decoration: none;
+  color: var(--secondary); /* Quartz Variablen */
+}
+
+.footer-section a:hover {
+  text-decoration: underline; /* Unterstreichung bei Hover */
+}
+
+/* Social Media Icons */
+.footer-section img {
+  width: 24px; /* Einheitliche Größe der Icons */
+  height: 24px;
+  margin-right: 10px; /* Abstand zwischen den Icons */
+}
+
+/* Copyright-Bereich */
+.footer-bottom {
+  text-align: left;
+  margin-top: 20px; /* Abstand zwischen Inhalt und Copyright */
+  font-size: 14px; /* Kleinere Schriftgröße für Copyright */
+  color: var(--gray); /* Quartz Variablen */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer-container {
+    align-items: flex-start; /* Linksbündig ausrichten */
+  }
+
+  .footer-section {
+    margin-bottom: 5px; /* Abstand zwischen den Sektionen */
   }
 }
