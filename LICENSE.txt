@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Content Licensing (CC BY 4.0)
+
+All written content inside the `content/` folder of this repository is licensed
+under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+This means:
+- You are free to share (copy and redistribute) and adapt (remix, transform)
+  the content for any purpose, including commercial use.
+- Attribution is required: You must credit the original author and provide a
+  link to the license.
+
+For more details, see the full CC BY 4.0 license at:
+https://creativecommons.org/licenses/by/4.0/

@@ -20,3 +20,16 @@ Erstelle gerne ein **[Issue](https://github.com/aidfulai/ki-wissen/issues)** ode
 
 ---
 Die Live-Version der Wissensammlung wird mit [Quartz](https://github.com/jackyzha0/quartz) aus Markdown Dateien erstellt.
+
+## License
+
+This repository has **dual licensing**:
+
+- **Quartz framework & code (MIT License)**  
+  The Quartz framework and any code-related parts of this repository (except content) are licensed under the [MIT License](https://opensource.org/license/mit).
+
+- **Content (CC BY 4.0 License)**  
+  All written content inside the `content/` folder are licensed under the  
+  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+For details, see [`LICENSE`](LICENSE).
