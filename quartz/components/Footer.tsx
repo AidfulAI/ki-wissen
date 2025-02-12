@@ -72,10 +72,14 @@ export default ((opts?: Options) => {
           <h4>Info</h4>
           <ul>
             <li>
-              <a href="/legal/impressum.html">Impressum</a>
+              <a href="/legal/impressum.html" target="_blank" rel="noopener noreferrer">
+                Impressum
+              </a>
             </li>
             <li>
-              <a href="/legal/datenschutz.html">Datenschutz</a>
+              <a href="/legal/datenschutz.html" target="_blank" rel="noopener noreferrer">
+                Datenschutz
+              </a>
             </li>
           </ul>
         </div>
