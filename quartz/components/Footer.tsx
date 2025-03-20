@@ -47,7 +47,7 @@ export default ((opts?: Options) => {
         <div className="footer-section">
           <h4>Social Media</h4>
           <a href="https://x.com/aidfulai" target="_blank" rel="noopener noreferrer" aria-label="𝕏">
-            <img src="/icons/x.ico" alt="X" />
+            <img src="/assets/icons/x.ico" alt="X" />
           </a>
           <a
             href="https://linkedin.com/in/drdanielbender"
@@ -55,7 +55,7 @@ export default ((opts?: Options) => {
             rel="noopener noreferrer"
             aria-label="LinkedIn"
           >
-            <img src="/icons/linkedin.ico" alt="LinkedIn" />
+            <img src="/assets/icons/linkedin.ico" alt="LinkedIn" />
           </a>
           <a
             href="https://www.youtube.com/@aidfulai"
@@ -63,7 +63,7 @@ export default ((opts?: Options) => {
             rel="noopener noreferrer"
             aria-label="YouTube"
           >
-            <img src="/icons/youtube.ico" alt="YouTube" />
+            <img src="/assets/icons/youtube.ico" alt="YouTube" />
           </a>
         </div>
 
@@ -72,12 +72,12 @@ export default ((opts?: Options) => {
           <h4>Info</h4>
           <ul>
             <li>
-              <a href="/legal/impressum.html" target="_blank" rel="noopener noreferrer">
+              <a href="/assets/legal/impressum.html" target="_blank" rel="noopener noreferrer">
                 Impressum
               </a>
             </li>
             <li>
-              <a href="/legal/datenschutz.html" target="_blank" rel="noopener noreferrer">
+              <a href="/assets/legal/datenschutz.html" target="_blank" rel="noopener noreferrer">
                 Datenschutz
               </a>
             </li>
