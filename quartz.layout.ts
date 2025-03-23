@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
+  footer: Component.Footer({ //not used as footer component was changed
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
@@ -23,8 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.DesktopOnly(Component.ImageTitle()),
-    Component.MobileOnly(Component.PageTitle()),
+    Component.ImageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -48,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    Component.ImageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
