@@ -1,6 +1,10 @@
 ---
 title: Über mich
 ---
+Mein Name ist Daniel Bender, ich bin 40 Jahre jung und wohne in der kleinen Stadt Meckenheim in Deutschland, die nicht weit entfernt von Bonn liegt.
+
+![[assets/drdanielbender_profile.jpg]]
+
 Mit über 15 Jahren Erfahrung in der Entwicklung und Implementierung von KI-Lösungen bin ich ein erfahrener Experte im Bereich der künstlichen Intelligenz. Schon während meines Studiums faszinierten mich Computer Vision und KI. Diese Themen vertiefte ich später in meiner Promotion und der Forschung am Fraunhofer FKIE. Zuletzt leitete ich ein KI-Team bei TOMRA, wo wir Deep Learning-Technologien für industrielle Sortieranlagen entwickelten.
 
 Heute konzentriere ich mich als selbstständiger KI-Transformationsberater darauf, die Potenziale der generativen KI für deutsche Firmen zu erschließen. Meine Mission ist es, Unternehmen dabei zu unterstützen, KI-Technologien praktisch und gewinnbringend in ihre Geschäftsprozesse zu integrieren.

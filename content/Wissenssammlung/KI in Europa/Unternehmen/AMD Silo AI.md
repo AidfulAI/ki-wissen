@@ -10,7 +10,7 @@ Im Januar 2025 kündigten AMD, Silo AI und Combient eine Partnerschaft an, um ei
 
 ## Sprachmodelle
 
-Silo AI ist bekannt für die Entwicklung offener multilinguistischer Großmodell-Sprachmodelle (LLMs), einschließlich Poro und Viking. Diese Modelle werden auf AMD Instinct-Beschleunigern trainiert und sind darauf ausgelegt, europäische Sprachen abzudecken.
+Silo AI ist bekannt für die Entwicklung offener multilinguistischer Großmodell-Sprachmodelle (LLMs), einschließlich [[Poro]] und Viking. Diese Modelle werden auf AMD Instinct-Beschleunigern trainiert und sind darauf ausgelegt, europäische Sprachen abzudecken.
 
 ## Fokus und Expertise von Silo AI
 

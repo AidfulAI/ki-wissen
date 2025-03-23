@@ -1,9 +1,12 @@
 ---
 title: Wissen und Beratung zu generativer KI in Deutschland
 ---
+Willkommen auf meiner Webseite. Mein Name ist Daniel Bender, ich bin 40 Jahre jung und wohne in der kleinen Stadt Meckenheim in Deutschland, die nicht weit entfernt von Bonn liegt.
+
 Als promovierter Informatiker und KI-Experte habe ich über 15 Jahre in Forschung und Industrie mit wahrnehmender KI gearbeitet. Heute unterstütze ich Sie dabei, die neuen Möglichkeiten der generativen künstlichen Intelligenz für Ihr Unternehmen zu erschließen. Meine Expertise basiert auf praktischer Erfahrung sowohl in der Forschung als auch in der industriellen Anwendung.
 
 ![[assets/drdanielbender_profile.jpg]]
+
 # Meine Angebote
 
 ## Professionelle Beratung und Schulung
