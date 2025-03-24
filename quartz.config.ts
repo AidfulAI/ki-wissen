@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "plausible",
+      host: "https://plausible.drdanielbender.de"
     },
     locale: "de-DE",
     baseUrl: "www.drdanielbender.de",
