@@ -1,4 +1,4 @@
-Die Bezeichnung LLM steht für Large Language Model (deutsch: Großes Sprachmodell). Es ist ein auf maschinellem Lernen basierendes KI-Modell, das darauf trainiert wurde, menschliche Sprache zu verstehen und zu generieren.
+Die Bezeichnung LLM steht für **Large Language Model** (deutsch: Großes Sprachmodell). Es ist ein auf maschinellem Lernen basierendes KI-Modell, das darauf trainiert wurde, menschliche Sprache zu verstehen und zu generieren.
 
 ## Funktionsweise
 - Verarbeitet und generiert Text basierend auf großen Mengen von Trainingsdaten
