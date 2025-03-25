@@ -20,7 +20,7 @@ Die Bezeichnung LLM steht für **Large Language Model** (deutsch: Großes Sprach
 
 ## Bekannte Beispiele
 - GPT (von OpenAI)
-- BERT (von Google)
+- Gemini (von Google)
 - LLaMA (von Meta)
 - Claude (von Anthropic)
 
