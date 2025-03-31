@@ -1,0 +1,46 @@
+name: Build Public Directory and Send Webhook
+
+on:
+  push:
+    branches:
+      - v4
+  workflow_dispatch:
+
+jobs:
+  build-public-send-webhook:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build public directory
+        run: npx quartz build
+
+      - name: Push public directory to public branch
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git checkout -B public
+          git add -f public/*
+          git commit -m "Update public directory from v4 - ${{ github.sha }}"
+          git push origin public --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
