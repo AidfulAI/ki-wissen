@@ -44,3 +44,9 @@ jobs:
           git push origin public --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Send webhook
+        run: |
+          curl -X POST \
+            -H "X-Token: ${{ secrets.WEBHOOK_SECRET }}" \
+            https://www.drdanielbender.de/webhook/update
