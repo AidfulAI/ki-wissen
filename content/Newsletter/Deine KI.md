@@ -8,6 +8,6 @@ Der Fokus liegt auf:
 * Erfahrungsberichte aus deutschen Unternehmen
 * Expertenmeinungen und konkrete Handlungsempfehlungen
 
-Der Newsletter unterstützt Sie dabei, generative KI datenschutzkonform und effizient in Ihrem beruflichen Umfeld einzusetzen.
+Der Newsletter unterstützt dich dabei, generative KI datenschutzkonform und effizient in deinem beruflichen Umfeld einzusetzen:
 
 <script async data-uid="3d479341b1" src="https://deineki.kit.com/3d479341b1/index.js"></script>

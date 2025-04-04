@@ -11,11 +11,11 @@ Die KI-Servicezentren sind ein integraler Bestandteil der KI-Strategie der Bunde
 
 1. [**West AI**](https://westai.de/) (Nordrhein-Westfalen)
    - **Standorte**: Dortmund, Bonn, Jülich, Aachen, Paderborn.
-   - **Schwerpunkt**: Integration großer Rechenkapazitäten mit KI-Kompetenzen, insbesondere durch die Zusammenarbeit des Forschungszentrums Jülich, der RWTH Aachen und des Lamarr-Instituts für Maschinelles Lernen und Künstliche Intelligenz.
+   - **Schwerpunkt**: Integration großer Rechenkapazitäten für Forschungseinrichtungen und Unternehmen, insbesondere durch die Bereitstellung der Recheninfrastruktur des Forschungszentrums Jülich und der RWTH Aachen.
 
 2. [**hessian.AISC**](https://hessian.ai/aisc/) (Hessen)
    - **Standort**: Darmstadt.
-   - **Schwerpunkt**: Forschung im Bereich der "dritten Welle" der KI, einschließlich großer generalisierbarer Modelle und datenintensiver Anwendungen.
+   - **Schwerpunkt**: Forschung im Bereich großer generalisierbarer Modelle. Ein Schwerpunkt stellt dabei die Transparenz und Erklärbarkeit der Modelle dar.
 
 3. [**KISSKI**](https://kisski.gwdg.de/) (Niedersachsen)
    - **Standorte**: Hannover, Göttingen, Kassel.
@@ -33,4 +33,4 @@ Die KI-Servicezentren stärken die Wettbewerbsfähigkeit deutscher Unternehmen, 
 
 Geplant sind der Ausbau des Serviceangebots, eine verstärkte internationale Vernetzung, die Entwicklung neuer Förderformate und die Integration von Start-up-Ökosystemen. Diese Zentren spielen eine Schlüsselrolle bei der Etablierung Deutschlands als führenden Standort für KI-Technologien und unterstützen maßgeblich die digitale Transformation der deutschen Wirtschaft.
 
-Für weitere Informationen besuchen Sie die offizielle [Mitteilung des DLR Projektträgers](https://www.softwaresysteme.dlr-pt.de/de/ki-servicezentren.php) zur Förderung der KI-Servicezentren.
+Für weitere Informationen besuchen du die offizielle [Mitteilung des DLR Projektträgers](https://www.softwaresysteme.dlr-pt.de/de/ki-servicezentren.php) zur Förderung der KI-Servicezentren.
