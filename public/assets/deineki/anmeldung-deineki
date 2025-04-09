@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DeineKI Anmeldung</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+        background-color: #f4f4f4;
+        color: #333;
+      }
+      h1 {
+        font-size: 2em;
+        color: #2c3e50;
+      }
+      p {
+        font-size: 1.1em;
+        max-width: 600px;
+        margin: 20px auto;
+        line-height: 1.5;
+      }
+      a {
+        color: #3498db;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Fast geschafft: Bestätige DeineKI jetzt!</h1>
+    <p>
+      Ich freue mich riesig, dass du dich für den DeineKI Newsletter angemeldet hast! Ich habe dir
+      gerade eine E-Mail mit einem
+      <strong>Bestätigungslink</strong> geschickt. Klick bitte auf den Link, damit du
+      meinen Newsletter bekommst.
+    </p>
+    <p>
+      Falls du die E-Mail nicht im Posteingang siehst, schau bitte auch mal in deinem Spam- oder
+      Junk-Ordner nach.
+    </p>
+    <p>
+      Hast du Fragen? Schreib mir gerne an
+      <a href="mailto:daniel@deineki.eu">daniel@deineki.eu</a>.
+    </p>
+  </body>
+</html>

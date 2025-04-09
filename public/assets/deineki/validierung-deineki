@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Willkommen bei DeineKI!</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+        background-color: #f4f4f4;
+        color: #333;
+      }
+      h1 {
+        font-size: 2em;
+        color: #2c3e50;
+      }
+      p {
+        font-size: 1.1em;
+        max-width: 600px;
+        margin: 20px auto;
+        line-height: 1.5;
+      }
+      a {
+        color: #3498db;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Willkommen bei DeineKI!</h1>
+    <p>
+      Deine Anmeldung für "DeineKI" ist jetzt bestätigt. Ich freue mich darauf dich künftig mit spannenden KI-Themen für den beruflichen Einsatz zu versorgen.
+    </p>
+    <p>Die erste Ausgabe landet schon bald in deinem Posteingang!</p>
+    <p>
+      Fragen oder Anregungen? Schreib mir einfach an
+      <a href="mailto:daniel@deineki.eu">daniel@deineki.eu</a>.
+    </p>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Dr. Daniel Bender</title>
+      <link>https://www.drdanielbender.de</link>
+      <description>Letzte 10 Seiten on Dr. Daniel Bender</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Deine KI</title>
+    <link>https://www.drdanielbender.de/Newsletter/Deine-KI</link>
+    <guid>https://www.drdanielbender.de/Newsletter/Deine-KI</guid>
+    <description>Mein neuer deutschsprachiger Newsletter für Fach- und Führungskräfte, der sich auf den professionellen Einsatz generativer KI im deutschen Geschäftsumfeld konzentriert.</description>
+    <pubDate>Wed, 09 Apr 2025 06:48:07 GMT</pubDate>
+  </item><item>
+    <title>Beratung</title>
+    <link>https://www.drdanielbender.de/Beratung-und-Schulung/Beratung</link>
+    <guid>https://www.drdanielbender.de/Beratung-und-Schulung/Beratung</guid>
+    <description>In der sich rasant entwickelnden Welt der künstlichen Intelligenz stehen Unternehmen vor der Herausforderung, diese Technologie effektiv und rechtskonform in ihre Geschäftsprozesse zu integrieren.</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>Schulung</title>
+    <link>https://www.drdanielbender.de/Beratung-und-Schulung/Schulung</link>
+    <guid>https://www.drdanielbender.de/Beratung-und-Schulung/Schulung</guid>
+    <description>Die erfolgreiche Integration von KI-Technologien in Unternehmensprozesse steht und fällt mit der Kompetenz der Mitarbeiter.</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>Aidful News</title>
+    <link>https://www.drdanielbender.de/Newsletter/Aidful-News</link>
+    <guid>https://www.drdanielbender.de/Newsletter/Aidful-News</guid>
+    <description>Ein englischsprachiger Newsletter, den ich seit Mitte 2023 wöchentlich schreibe und in dem ich meine Erfahrungen und Gedanken zur rasanten Entwicklung der generativen Künstlichen Intelligenz teile.</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>aidful-ollama-model-delete</title>
+    <link>https://www.drdanielbender.de/Projekte/aidful-ollama-model-delete</link>
+    <guid>https://www.drdanielbender.de/Projekte/aidful-ollama-model-delete</guid>
+    <description>Dieses Tool ist eine benutzerfreundliche Anwendung zur effizienten Verwaltung von lokalen KI-Modellen in deiner Ollama-Installation.</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>KI-Servicezentren</title>
+    <link>https://www.drdanielbender.de/Wissenssammlung/KI-in-Deutschland/KI-Servicezentren</link>
+    <guid>https://www.drdanielbender.de/Wissenssammlung/KI-in-Deutschland/KI-Servicezentren</guid>
+    <description>Die KI-Servicezentren sind ein integraler Bestandteil der KI-Strategie der Bundesregierung und dienen als regionale Kompetenzzentren zur Förderung und Implementierung von Künstlicher Intelligenz (KI).</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>AMD Silo AI</title>
+    <link>https://www.drdanielbender.de/Wissenssammlung/KI-in-Europa/Unternehmen/AMD-Silo-AI</link>
+    <guid>https://www.drdanielbender.de/Wissenssammlung/KI-in-Europa/Unternehmen/AMD-Silo-AI</guid>
+    <description>AMD Silo AI ist ein führendes europäisches Unternehmen für die Bereitstellung von KI-Lösungen, das sich darauf spezialisiert hat, KI-Modelle und -Lösungen zu entwickeln und auf AMDs Hochleistungsrechenplattformen zu betreiben.</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>Wissen und Beratung zu generativer KI in Deutschland</title>
+    <link>https://www.drdanielbender.de/</link>
+    <guid>https://www.drdanielbender.de/</guid>
+    <description>Willkommen auf meiner Webseite.</description>
+    <pubDate>Fri, 04 Apr 2025 10:30:03 GMT</pubDate>
+  </item><item>
+    <title>Deep Learning</title>
+    <link>https://www.drdanielbender.de/Wissenssammlung/Terminologie/Deep-Learning</link>
+    <guid>https://www.drdanielbender.de/Wissenssammlung/Terminologie/Deep-Learning</guid>
+    <description>Deep Learning ist ein Teilbereich des maschinellen Lernens, der auf künstlichen neuronalen Netzwerken mit mehreren Schichten (daher “tief” bzw.</description>
+    <pubDate>Tue, 25 Mar 2025 19:22:59 GMT</pubDate>
+  </item><item>
+    <title>LLM</title>
+    <link>https://www.drdanielbender.de/Wissenssammlung/Terminologie/LLM</link>
+    <guid>https://www.drdanielbender.de/Wissenssammlung/Terminologie/LLM</guid>
+    <description>Die Bezeichnung LLM steht für Large Language Model (deutsch: Großes Sprachmodell).</description>
+    <pubDate>Tue, 25 Mar 2025 19:22:59 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
