@@ -9,5 +9,4 @@ Der Fokus liegt auf:
 * Expertenmeinungen und konkrete Handlungsempfehlungen
 
 Der Newsletter unterstützt dich dabei, generative KI datenschutzkonform und effizient in deinem beruflichen Umfeld einzusetzen:
-
-<iframe width="620" height="480" src="https://sibforms.com/serve/MUIFAIphV09bO1WNVUKbQ8H3DRK4ocn4bPnJ-rjyZQfC8uzpyjtFYu5Yn3AptBEpf-tZN_0JRKwzx9epelePQyntN-YORJ0h38VWWIJMZFzzXk1WSqmXoC061Z4nKrEvDK8ssvYL0VvtqpIKNYN5KCpwiUuEDGpOQsjSSzyWSXa6-NQ9yj8fw6HPN1hJ092fuhfUfeYyq5uAa4rE" frameborder="0" scrolling="auto" allowfullscreen></iframe>
+<iframe width="620" height="480" src="https://sibforms.com/serve/MUIFAIcv-72MohAS8eot4JVwO9Xw8E-2c4YlOlQ9pMEH3RFn_QYXuAoUmpAMSTN9kIvfPoxai7olbyGgZwI_Ch4uPJ3v5urCqO4W_BicYxtqBlGz9Q9rLbjcmJS6266ThvGmkZuwgOMwMAPO57S8kNwfvWXF0eZxLnGSrD4qTqBpwBipaKHKDKVTq4YZc_HK7r1HmZ1_ai3xhgGW" frameborder="0" scrolling="auto" allowfullscreen></iframe>
